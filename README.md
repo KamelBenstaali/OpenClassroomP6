@@ -1,0 +1,1 @@
+Ce projet présente une analyse de features d'articles à partir de leurs images et de leurs descriptions, ainsi que des classifications de ces derniers à l'aied de modèles de deep learning.
