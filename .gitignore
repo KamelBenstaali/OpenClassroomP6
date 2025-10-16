@@ -4,3 +4,7 @@ Dataset+projet+pretraitement+textes+images
 Notebooks_cours
 Runs
 venv
+package-lock.json
+package.json
+node_modules
+
